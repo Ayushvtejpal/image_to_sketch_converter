@@ -1,6 +1,3 @@
-# Python program to Convert Image into sketch
-
-
 # import all the required modules
 import numpy as np
 import imageio
@@ -9,7 +6,7 @@ import cv2
 
 
 # take image input and assign variable to it
-img = "https://media.geeksforgeeks.org/wp-content/uploads/20200910185931/input2-300x295.jpg"
+img = "https://mubaarka.com/images/24.08.2021_18.33.35_REC.png"
 
 
 # function to convert image into sketch
